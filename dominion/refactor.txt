@@ -1,0 +1,3 @@
+The changes I have made to the dominion.c file have been removing the innards of the switch statements pertaining to the cards smithy, adventurer, outpost, council_room, and great_hall and placing their functionality into specailly made functions for each card that is called when the switch case is met.
+
+The function calls are essentially the name of the card they represent with an "f_" in front (e.g. "f_smithy()") in order to avoid confusion.  
