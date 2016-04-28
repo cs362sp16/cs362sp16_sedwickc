@@ -1,0 +1,41 @@
+Unit Tests:
+
+Test 1 I checked to see if there would be any errors thrown for testing 
+the number of players in "initializeGame". The coverage I receved was 15.44% 
+of 583.
+
+Test 2 I checked the function "buyCard". My code coverage for my unti test 
+was 20.75% of 583. To do this I checked each of the if cases for the 
+buyCard function.
+
+Test 3 I checked each and every value in the function getCost.
+My code coverage following that was 25.39% of 583. I created and array of 
+values and checked each and every index ginst it's corresponding value in 
+"getCost."
+
+Test 4 required that I test the value of coins in the gamestate after 
+running the function "updateCoins." Coverage was 25.73% of 583. Checked 
+value of hand at start, then replaced 2 cards with silver and gold and 
+ran update. Then checked to see if value changed.
+
+
+
+Card Tests:
+
+Card test 1: Checked "smithy" 
+Coverage: 28.64% of 583
+Initialized game and looked at hand size, then ran smithy card and 
+checked to see if hand size changed.
+
+Card test 2: Checked "council_room"
+Coverage: 30.36% of 583
+Checked size of handCounts before and after use of card.
+
+Card test 3: Checked "village"
+Coverage: 32.76% of 583
+Checked handCount and numActions before and after the card was played.
+
+Card test 4: Checked "steward"
+Coverage: 34.31% of 583
+Tested each effect of the card "steward" by taking values before 
+and after it's effects.

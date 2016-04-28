@@ -150,6 +150,7 @@ int initializeGame(int numPlayers, int kingdomCards[10], int randomSeed,
 	}
     }
 
+
   //shuffle player decks
   for (i = 0; i < numPlayers; i++)
     {
@@ -294,7 +295,7 @@ int buyCard(int supplyPos, struct gameState *state) {
   } else {
     state->phase=1;
     //state->supplyCount[supplyPos]--;
-    gainCard(supplyPos, state, 0, who); //card goes in discard, this might be wrong.. (2 means goes into hand, 0 goes into discard)
+    gainCard(supplyPos, state, 2, who); //card goes in discard, this might be wrong.. (2 means goes into hand, 0 goes into discard)
   
     state->coins = (state->coins) - (getCost(supplyPos));
     state->numBuys--;
@@ -689,7 +690,6 @@ int f_council_room(int currentPlayer, struct gameState *state, int handPos)
         drawCard(currentPlayer, state);
     }
     
-    currentPlayer = 1;
     //+1 Buy
     state->numBuys++;
     
