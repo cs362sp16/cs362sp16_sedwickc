@@ -1,0 +1,21 @@
+To run program: 
+
+make clean
+make randomtestresults.out
+
+Should create "randomtestresults.out" file.
+
+To develop my random testers I had two functions: an oracle function and the main function.
+
+When creating my random test values I realized early on that some even though the 
+"currentPlayer" value doesn't seem to change the way a certain function call works, it 
+was throwing me seg. faults because it required a valid value for the function calls.
+To fix this I assign a random value to currentPlayer that is either 1 or 0.
+
+I was able to achieve 100% code coverage for the adventurer card as well as council_room 
+and smithy. 
+
+When comparing the unit tests to my random tests it appears that I received similar if not 
+better code coverage with the random tests. When it comes to better fault detection 
+capability I would say that the randomtests had better fault detection as I kept track of 
+successful and failing runs within the oracle of each test.
