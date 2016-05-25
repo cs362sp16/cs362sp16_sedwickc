@@ -1,0 +1,43 @@
+#!/bin/bash
+
+echo -n "Enter other directory to test > "
+read dir2
+
+echo -n "Enter seed value > "
+read seed
+
+make all
+make testdom
+
+##cp testdom.c $dir2
+cd $dir2
+##make clean
+make all
+make testdom
+
+cd ..
+##cp *.o t1
+##cp testdominion.c t1
+##cp testdom t1
+
+testdom $seed > testout1
+$dir2/testdom $seed > $dir2/testout2
+
+diff --suppress-common-lines t1/testout1 $dir2/testout2 > difftester
+ 
+if [[ -s difftester ]] ; then
+   echo "TEST FAILED"
+else
+   echo "TEST SUCCESS"
+fi ;
+
+##rm $dir1/*.o
+##rm $dir1/testdominion.c
+##rm $dir1/testdom
+##rm $dir1/testout1
+##rmdir $dir1
+##rm $dir2/*.o
+##rm $dir2/testdominion.c
+##rm $dir2/testdom
+##rm $dir2/testout2
+##rmdir $dir2

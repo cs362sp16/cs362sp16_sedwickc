@@ -1,0 +1,11 @@
+It is difficult to say who is correct because at a certain point my tester begins to make different plays between the two versions of dominion. 
+
+There is evidence to suggest that there is a bug affecting the deck of my random tester.
+
+This is not ideal for differential testing because I do not have the same method of testing for coverage as someone else does. 
+
+In testing my version of dominion I was able to reach 61.56% code coverage.
+
+In testing my classmate’s version of dominion I reached 59.85% code coverage.
+
+

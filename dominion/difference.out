@@ -1,0 +1,881 @@
+69c69
+< 0: bought gold
+---
+> 0: bought tribute
+71c71
+< Player 0: 5
+---
+> Player 0: 3
+77c77
+< Player 0: 5
+---
+> Player 0: 3
+92c92
+< Player 0: 5
+---
+> Player 0: 3
+98c98
+< Player 0: 2
+---
+> Player 0: 1
+102c102,104
+< 0: bought tribute
+---
+> 0: tribute played from position 3
+> tribute played.
+> 0: bought silver
+104,105c106,107
+< Player 0: 4
+< Player 1: 0
+---
+> Player 0: 3
+> Player 1: 1
+108c110
+< 1: bought minion
+---
+> 1: bought adventurer
+110,111c112,113
+< Player 0: 4
+< Player 1: 2
+---
+> Player 0: 3
+> Player 1: 3
+120c122
+< 4  Baron        
+---
+> 4  Silver       
+122,123c124
+< 2: baron played from position 4
+< 2: bought silver
+---
+> 2: bought council_room
+125,126c126,127
+< Player 0: 4
+< Player 1: 2
+---
+> Player 0: 3
+> Player 1: 3
+132c133
+< Player 1: 2
+---
+> Player 1: 3
+135c136
+< 0: bought tribute
+---
+> 0: bought smithy
+138c139
+< Player 1: 4
+---
+> Player 1: 1
+141c142,143
+< 1: bought silver
+---
+> 1: adventurer played from position 2
+> 1: bought adventurer
+144,145c146,147
+< Player 1: 6
+< Player 2: 4
+---
+> Player 1: 2
+> Player 2: 5
+149,153c151,155
+< 0  Silver       
+< 1  Copper       
+< 2  Estate       
+< 3  Baron        
+< 4  Copper       
+---
+> 0  Estate       
+> 1  Baron        
+> 2  Copper       
+> 3  Copper       
+> 4  Estate       
+155,156c157
+< 2: baron played from position 3
+< 2: bought baron
+---
+> 2: baron played from position 1
+159,160c160,161
+< Player 1: 6
+< Player 2: 5
+---
+> Player 1: 2
+> Player 2: 6
+166,169c167,172
+< Player 1: 6
+< Player 2: 4
+< Player 3: 2
+< 0: bought gold
+---
+> Player 1: 3
+> Player 2: 7
+> Player 3: 3
+> 0: tribute played from position 0
+> tribute played.
+> 0: bought silver
+171,176c174,179
+< Player 0: 3
+< Player 1: 1
+< Player 2: 4
+< Player 3: 2
+< 1: minion played from position 1
+< 1: bought silver
+---
+> Player 0: 2
+> Player 1: 0
+> Player 2: 7
+> Player 3: 3
+> 1: adventurer played from position 3
+> 1: bought gold
+178,181c181,184
+< Player 0: 3
+< Player 1: 2
+< Player 2: 0
+< Player 3: 2
+---
+> Player 0: 2
+> Player 1: 1
+> Player 2: 1
+> Player 3: 3
+184,186c187,189
+< 0  Silver       
+< 1  Baron        
+< 2  Baron        
+---
+> 0  Baron        
+> 1  Council Room 
+> 2  Copper       
+188c191
+< 4  Baron        
+---
+> 4  Estate       
+190,191c193,194
+< 2: baron played from position 4
+< 2: bought silver
+---
+> 2: baron played from position 0
+> 2: council_room played from position 1
+193,194c196,197
+< Player 0: 3
+< Player 1: 2
+---
+> Player 0: 2
+> Player 1: 1
+196,197c199
+< Player 3: 3
+< 3: sea_hag played from position 3
+---
+> Player 3: 4
+200,202c202,204
+< Player 0: 4
+< Player 1: 3
+< Player 2: 2
+---
+> Player 0: 3
+> Player 1: 1
+> Player 2: 3
+204c206,208
+< 0: bought silver
+---
+> 0: smithy played from position 4
+> smithy played.
+> 0: bought gold
+207,208c211,212
+< Player 1: 4
+< Player 2: 2
+---
+> Player 1: 1
+> Player 2: 3
+210c214,215
+< 1: bought silver
+---
+> 1: adventurer played from position 2
+> 1: bought province
+213,214c218,219
+< Player 1: 3
+< Player 2: 3
+---
+> Player 1: 7
+> Player 2: 5
+218,220c223,225
+< 0  Copper       
+< 1  Copper       
+< 2  Estate       
+---
+> 0  Silver       
+> 1  Estate       
+> 2  Copper       
+222c227
+< 4  Copper       
+---
+> 4  Estate       
+227,228c232,233
+< Player 1: 3
+< Player 2: 2
+---
+> Player 1: 7
+> Player 2: 7
+229a235
+> 3: sea_hag played from position 2
+232,236c238,242
+< Player 0: 2
+< Player 1: 3
+< Player 2: 2
+< Player 3: 3
+< 0: bought smithy
+---
+> Player 0: 1
+> Player 1: 7
+> Player 2: 7
+> Player 3: 2
+> 0: bought gold
+238c244
+< Player 0: 3
+---
+> Player 0: 2
+240,242c246,249
+< Player 2: 2
+< Player 3: 3
+< 1: bought silver
+---
+> Player 2: 7
+> Player 3: 2
+> 1: adventurer played from position 3
+> 1: bought province
+244,245c251,252
+< Player 0: 3
+< Player 1: 2
+---
+> Player 0: 2
+> Player 1: 20
+247c254
+< Player 3: 3
+---
+> Player 3: 2
+250,253c257,260
+< 0  Baron        
+< 1  Copper       
+< 2  Baron        
+< 3  Baron        
+---
+> 0  Copper       
+> 1  Baron        
+> 2  Copper       
+> 3  Council Room 
+256c263,264
+< 2: baron played from position 3
+---
+> 2: baron played from position 1
+> 2: council_room played from position 3
+258,260c266,268
+< Player 0: 3
+< Player 1: 2
+< Player 2: 2
+---
+> Player 0: 2
+> Player 1: 20
+> Player 2: 4
+262d269
+< 3: sea_hag played from position 3
+266,269c273,278
+< Player 1: 1
+< Player 2: 3
+< Player 3: 3
+< 0: bought gold
+---
+> Player 1: 20
+> Player 2: 4
+> Player 3: 4
+> 0: tribute played from position 1
+> tribute played.
+> 0: bought silver
+271,278c280,281
+< Player 0: 5
+< Player 1: 1
+< Player 2: 3
+< Player 3: 3
+< 1: bought adventurer
+< 1: end turn
+< Player 0: 5
+< Player 1: 2
+---
+> Player 0: 4
+> Player 1: 6
+280c283,290
+< Player 3: 3
+---
+> Player 3: 4
+> 1: adventurer played from position 2
+> 1: bought gold
+> 1: end turn
+> Player 0: 4
+> Player 1: 26
+> Player 2: 6
+> Player 3: 4
+283,285c293,295
+< 0  Copper       
+< 1  Estate       
+< 2  Silver       
+---
+> 0  Silver       
+> 1  Baron        
+> 2  Estate       
+287c297
+< 4  Baron        
+---
+> 4  Estate       
+289,290c299,300
+< 2: baron played from position 4
+< 2: bought baron
+---
+> 2: baron played from position 1
+> 2: bought silver
+292,294c302,304
+< Player 0: 5
+< Player 1: 2
+< Player 2: 4
+---
+> Player 0: 4
+> Player 1: 26
+> Player 2: 7
+296a307
+> 3: bought silver
+298,303c309,312
+< Player 0: 0
+< Player 1: 1
+< Player 2: 4
+< Player 3: 0
+< 0: smithy played from position 4
+< smithy played.
+---
+> Player 0: 1
+> Player 1: 26
+> Player 2: 6
+> Player 3: -1
+307,310c316,320
+< Player 1: 1
+< Player 2: 4
+< Player 3: 0
+< 1: bought silver
+---
+> Player 1: 7
+> Player 2: 6
+> Player 3: -1
+> 1: adventurer played from position 0
+> 1: bought gold
+313,315c323,325
+< Player 1: 1
+< Player 2: 1
+< Player 3: 0
+---
+> Player 1: 14
+> Player 2: 3
+> Player 3: -1
+319,320c329,330
+< 1  Copper       
+< 2  Baron        
+---
+> 1  Estate       
+> 2  Copper       
+322c332
+< 4  Baron        
+---
+> 4  Estate       
+324c334
+< 2: baron played from position 4
+---
+> 2: baron played from position 3
+327,330c337,340
+< Player 1: 1
+< Player 2: 1
+< Player 3: 2
+< 3: bought silver
+---
+> Player 1: 14
+> Player 2: 4
+> Player 3: 0
+> 3: bought province
+332,335c342,347
+< Player 0: 11
+< Player 1: 1
+< Player 2: 1
+< Player 3: 2
+---
+> Player 0: 10
+> Player 1: 14
+> Player 2: 4
+> Player 3: 7
+> 0: tribute played from position 1
+> tribute played.
+339,342c351,354
+< Player 1: 1
+< Player 2: 1
+< Player 3: 2
+< 1: adventurer played from position 3
+---
+> Player 1: 6
+> Player 2: 4
+> Player 3: 7
+> 1: adventurer played from position 4
+346,348c358,360
+< Player 1: 8
+< Player 2: 3
+< Player 3: 2
+---
+> Player 1: 26
+> Player 2: 5
+> Player 3: 7
+352c364
+< 1  Estate       
+---
+> 1  Silver       
+354,355c366,367
+< 3  Baron        
+< 4  Baron        
+---
+> 3  Copper       
+> 4  Silver       
+357c369
+< 2: baron played from position 4
+---
+> 2: bought gold
+360,363c372,375
+< Player 1: 8
+< Player 2: 5
+< Player 3: 3
+< 3: sea_hag played from position 3
+---
+> Player 1: 26
+> Player 2: 7
+> Player 3: 8
+> 3: sea_hag played from position 0
+366,368c378,382
+< Player 1: 7
+< Player 2: 4
+< Player 3: 2
+---
+> Player 1: 26
+> Player 2: 7
+> Player 3: 7
+> 0: tribute played from position 2
+> tribute played.
+371,376c385,389
+< Player 0: 9
+< Player 1: 6
+< Player 2: 4
+< Player 3: 2
+< 1: adventurer played from position 2
+< 1: bought adventurer
+---
+> Player 0: 3
+> Player 1: 13
+> Player 2: 7
+> Player 3: 7
+> 1: bought silver
+378,379c391,392
+< Player 0: 9
+< Player 1: 12
+---
+> Player 0: 3
+> Player 1: 13
+381,448c394
+< Player 3: 2
+< Player 2's hand:
+< #  Card
+< 0  Copper       
+< 1  Baron        
+< 2  Estate       
+< 3  Copper       
+< 4  Baron        
+< 
+< 2: baron played from position 4
+< 2: end turn
+< Player 0: 9
+< Player 1: 12
+< Player 2: 3
+< Player 3: 2
+< 3: sea_hag played from position 1
+< 3: bought gold
+< 3: end turn
+< Player 0: 16
+< Player 1: 11
+< Player 2: 2
+< Player 3: 3
+< 0: bought gold
+< 0: end turn
+< Player 0: 16
+< Player 1: 0
+< Player 2: 2
+< Player 3: 3
+< 1: adventurer played from position 4
+< 1: bought province
+< 1: end turn
+< Player 0: 16
+< Player 1: 18
+< Player 2: 2
+< Player 3: 3
+< Player 2's hand:
+< #  Card
+< 0  Baron        
+< 1  Estate       
+< 2  Estate       
+< 3  Baron        
+< 4  Copper       
+< 
+< 2: baron played from position 3
+< 2: end turn
+< Player 0: 16
+< Player 1: 18
+< Player 2: 3
+< Player 3: 0
+< 3: bought gold
+< 3: end turn
+< Player 0: 0
+< Player 1: 18
+< Player 2: 3
+< Player 3: 2
+< 0: bought province
+< 0: end turn
+< Player 0: 14
+< Player 1: 0
+< Player 2: 3
+< Player 3: 2
+< 1: adventurer played from position 0
+< 1: bought province
+< 1: end turn
+< Player 0: 14
+< Player 1: 18
+< Player 2: 2
+< Player 3: 2
+---
+> Player 3: 7
+451,452c397,398
+< 0  Baron        
+< 1  Estate       
+---
+> 0  Silver       
+> 1  Copper       
+454c400
+< 3  Baron        
+---
+> 3  Silver       
+457c403
+< 2: baron played from position 3
+---
+> 2: bought gold
+459,460c405,406
+< Player 0: 14
+< Player 1: 18
+---
+> Player 0: 3
+> Player 1: 13
+462,463c408
+< Player 3: 3
+< 3: sea_hag played from position 2
+---
+> Player 3: 9
+466,467c411,412
+< Player 0: 17
+< Player 1: 11
+---
+> Player 0: 10
+> Player 1: 13
+469,470c414,415
+< Player 3: 3
+< 0: bought silver
+---
+> Player 3: 11
+> 0: bought gold
+472,473c417,418
+< Player 0: 16
+< Player 1: 6
+---
+> Player 0: 18
+> Player 1: 13
+475,476c420,422
+< Player 3: 3
+< 1: bought gold
+---
+> Player 3: 11
+> 1: adventurer played from position 3
+> 1: bought province
+478,481c424,427
+< Player 0: 16
+< Player 1: 6
+< Player 2: 2
+< Player 3: 3
+---
+> Player 0: 18
+> Player 1: 39
+> Player 2: 6
+> Player 3: 11
+484,485c430,431
+< 0  Baron        
+< 1  Estate       
+---
+> 0  Gold         
+> 1  Copper       
+488c434
+< 4  Copper       
+---
+> 4  Estate       
+490a437
+> 2: bought baron
+492,496c439,444
+< Player 0: 16
+< Player 1: 6
+< Player 2: 4
+< Player 3: 1
+< 3: bought province
+---
+> Player 0: 18
+> Player 1: 39
+> Player 2: 7
+> Player 3: 0
+> 3: sea_hag played from position 2
+> 3: bought gold
+498,502c446,450
+< Player 0: 8
+< Player 1: 6
+< Player 2: 4
+< Player 3: 8
+< 0: bought silver
+---
+> Player 0: 7
+> Player 1: 32
+> Player 2: 6
+> Player 3: 7
+> 0: bought province
+505,508c453,456
+< Player 1: 0
+< Player 2: 4
+< Player 3: 8
+< 1: adventurer played from position 2
+---
+> Player 1: 6
+> Player 2: 6
+> Player 3: 7
+> 1: adventurer played from position 3
+512,514c460,462
+< Player 1: 18
+< Player 2: 3
+< Player 3: 8
+---
+> Player 1: 19
+> Player 2: 2
+> Player 3: 7
+518,519c466,467
+< 1  Baron        
+< 2  Estate       
+---
+> 1  Gold         
+> 2  Copper       
+523a472
+> 2: bought baron
+526,527c475,476
+< Player 1: 18
+< Player 2: 5
+---
+> Player 1: 19
+> Player 2: 4
+531,534c480,485
+< Player 0: 15
+< Player 1: 18
+< Player 2: 5
+< Player 3: 8
+---
+> Player 0: 16
+> Player 1: 19
+> Player 2: 4
+> Player 3: 9
+> 0: tribute played from position 0
+> tribute played.
+537,540c488,491
+< Player 0: 22
+< Player 1: 6
+< Player 2: 5
+< Player 3: 8
+---
+> Player 0: 29
+> Player 1: 0
+> Player 2: 4
+> Player 3: 9
+542c493
+< 1: bought gold
+---
+> 1: bought province
+544,547c495,498
+< Player 0: 22
+< Player 1: 12
+< Player 2: 2
+< Player 3: 8
+---
+> Player 0: 29
+> Player 1: 30
+> Player 2: 6
+> Player 3: 9
+550,553c501,504
+< 0  Baron        
+< 1  Copper       
+< 2  Baron        
+< 3  Estate       
+---
+> 0  Copper       
+> 1  Silver       
+> 2  Estate       
+> 3  Silver       
+556c507
+< 2: baron played from position 2
+---
+> 2: bought council_room
+558,562c509,512
+< Player 0: 22
+< Player 1: 12
+< Player 2: 5
+< Player 3: 9
+< 3: sea_hag played from position 2
+---
+> Player 0: 29
+> Player 1: 30
+> Player 2: 7
+> Player 3: 16
+565,568c515,518
+< Player 0: 12
+< Player 1: 11
+< Player 2: 5
+< Player 3: 10
+---
+> Player 0: 31
+> Player 1: 30
+> Player 2: 7
+> Player 3: 16
+571c521
+< Player 0: 14
+---
+> Player 0: 29
+573,574c523,525
+< Player 2: 5
+< Player 3: 10
+---
+> Player 2: 7
+> Player 3: 16
+> 1: adventurer played from position 0
+577,613c528,531
+< Player 0: 14
+< Player 1: 12
+< Player 2: 2
+< Player 3: 10
+< Player 2's hand:
+< #  Card
+< 0  Baron        
+< 1  Baron        
+< 2  Copper       
+< 3  Estate       
+< 4  Estate       
+< 
+< 2: baron played from position 1
+< 2: end turn
+< Player 0: 14
+< Player 1: 12
+< Player 2: 5
+< Player 3: 6
+< 3: bought gold
+< 3: end turn
+< Player 0: 20
+< Player 1: 12
+< Player 2: 5
+< Player 3: 7
+< 0: bought province
+< 0: end turn
+< Player 0: 38
+< Player 1: 18
+< Player 2: 5
+< Player 3: 7
+< 1: adventurer played from position 4
+< 1: bought gold
+< 1: end turn
+< Player 0: 38
+< Player 1: 12
+< Player 2: 2
+< Player 3: 7
+---
+> Player 0: 29
+> Player 1: 42
+> Player 2: 1
+> Player 3: 16
+616,617c534,535
+< 0  Estate       
+< 1  Baron        
+---
+> 0  Copper       
+> 1  Gold         
+619c537
+< 3  Copper       
+---
+> 3  Council Room 
+622a541,542
+> 2: council_room played from position 3
+> 2: bought baron
+624,660c544,547
+< Player 0: 38
+< Player 1: 12
+< Player 2: 4
+< Player 3: 8
+< 3: sea_hag played from position 1
+< 3: bought gold
+< 3: end turn
+< Player 0: 6
+< Player 1: 11
+< Player 2: 5
+< Player 3: 9
+< 0: bought gold
+< 0: end turn
+< Player 0: 18
+< Player 1: 6
+< Player 2: 5
+< Player 3: 9
+< 1: bought province
+< 1: end turn
+< Player 0: 18
+< Player 1: 12
+< Player 2: 2
+< Player 3: 9
+< Player 2's hand:
+< #  Card
+< 0  Estate       
+< 1  Baron        
+< 2  Estate       
+< 3  Copper       
+< 4  Baron        
+< 
+< 2: baron played from position 4
+< 2: end turn
+< Player 0: 18
+< Player 1: 12
+< Player 2: 4
+< Player 3: 9
+---
+> Player 0: 29
+> Player 1: 42
+> Player 2: 3
+> Player 3: 1
+663,666c550,553
+< Player 0: 24
+< Player 1: 12
+< Player 2: 4
+< Player 3: 21
+---
+> Player 0: 1
+> Player 1: 42
+> Player 2: 3
+> Player 3: 7
+668,671c555,558
+< Player 0: 24
+< Player 1: 12
+< Player 2: 4
+< Player 3: 21
+---
+> Player 0: 1
+> Player 1: 42
+> Player 2: 3
+> Player 3: 7
