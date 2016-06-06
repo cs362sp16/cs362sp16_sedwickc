@@ -1,0 +1,2 @@
+There appears to be a bug in your version of dominion.c where when a user plays the card 
+"smithy" they do not draw 3 cards and instead are only taking one card.

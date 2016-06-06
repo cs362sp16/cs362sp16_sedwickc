@@ -1,0 +1,6 @@
+There appears to be a problem wherein each player has 0 cards in their hand or deck after the game has been initialized.
+
+To find this bug I attempted to play a card that is supposed to add a card to the player's hand which it did not. 
+The player also started with 0 cards.
+
+I would say this has a high priority and high severity because it almost effectively makes the game unplayable.

@@ -1,0 +1,5 @@
+When calling the cardeffect for smithy, the game only draws one card as opposed to the three that are supposed to be drawn.
+
+To cause this bug to occur you need only play the smithy card.
+
+The severity of this bug is very low and only affects one part of the game. Priority is medium as it is noticeable.

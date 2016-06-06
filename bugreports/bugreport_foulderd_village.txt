@@ -1,0 +1,7 @@
+During testing of the card "village" in comparing results between my un edited version and foulgerd's 
+I found that foulgerd's version adds three actions instead of two. 
+
+In order to get this bug to occur you need only attempt to play the village card.
+
+The severity of this card is low as it only affects a part of the game if the player chooses to play 
+this card. The priority is medium as this card gives players more turns and can affect gameplay.

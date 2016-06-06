@@ -78,7 +78,7 @@ randomtestresults.out: dominion.o randomtestadventurer randomtestcard1 randomtes
 
 	gcov dominion.c -f >> randomtestresults.out
 
-unittestresults.out: dominion.o unittest1 unittest2 unittest3 unittest4 cardtest1 cardtest2 cardtest3 cardtest4
+unittestresults.out: dominion.o randomtestcard2 unittest1 unittest2 unittest3 unittest4 cardtest1 cardtest2 cardtest3 cardtest4
 	./unittest1 > unittestresults.out
 	##gcov dominion.c -f >> unittestresults.out
 	
@@ -101,6 +101,8 @@ unittestresults.out: dominion.o unittest1 unittest2 unittest3 unittest4 cardtest
 
 	./cardtest3 >> unittestresults.out
 	##gcov dominion.c -f >> unittestresults.out
+
+	./randomtestcard2 42 57 > randomtestresults.out
 
 	./cardtest4 >> unittestresults.out
 	gcov dominion.c -f >> unittestresults.out

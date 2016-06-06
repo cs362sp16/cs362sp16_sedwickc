@@ -23,7 +23,7 @@ int checkVillage(int currentPlayer, struct gameState *state, int handPos){
     
     printf("handCount: %d, Actions: %d\n",endingHand,actionsAfter);
     
-    if(startingHand != endingHand){
+    if((startingHand != endingHand) || (actionsAfter != (actionsBefore+2))){
         printf("Error! Village card (cardEffect) not working properly\n");
         exit(0);
     }else{

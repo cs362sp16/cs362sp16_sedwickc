@@ -1,0 +1,14 @@
+After running gcov and the unit tests for dominion.c it is apparent that two of the functions are faulty.
+
+After running tests, after being called at least 89 times, the card_smithy function failed 100% of it's tests.
+Using the tarantula formula we receive a suspiciousness value of 0.
+
+	susp = (0 passes/89 trials) / ((0 passes/89 trials) + (89 failures/89 trials))
+
+After running tests, after being called at least 50 times, the card_village function failed 100% of it's tests.
+Using the tarantula formula we receive a suspiciousness value of 0.
+
+	susp = (0 passes/50 trials) / ((0 passes/50 trials) + (50 failures/ trials))
+
+Because these are only two of the kindom cards that have been implemented in the game it is difficult to give 
+this high priority. Although, they do affect the way the game is played to an extent as to affecting the number of cards players have to use and their number of turns. The severity in this case seems fairly low.

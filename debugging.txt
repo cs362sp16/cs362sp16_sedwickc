@@ -1,0 +1,39 @@
+BEGIN DOCUMENTATION:
+
+In writing cardtest3 to check village card I'm recieving errors in output.
+
+Wrote printf to output the cards in hand and actions available for current 
+player before and after cardEffect is called.
+
+Number of cards in hand is increasing after call to cardEffect, actions not increasing.
+
+Checking cardEffect function.
+
+Village function doing correct steps.
+
+Attempt to recompile and run again.
+
+Still receiving error of hand size increasing by more than it should and not affecting 
+actions.
+
+Checking over oracle in test file for error in success/fail cases.
+
+Success/fails are not broken.
+
+Checking that correct card is being played from hand with call to cardEffect.
+
+cardEffect sending value 13 (smithy) instead of value 14 (village).
+
+Changed value from 13 to 14.
+
+Recompiled and ran.
+
+Getting correct result, tests passing.
+
+--END DOCUMENTATION
+
+In writing this unittest I found that Agan's ruls that if you haven't fixed something then it "ain't fixed." 
+This becme clear when I recompiled the program without changing anything after seeing that the steps used for 
+the village card appeared correct. I also attempted to use the "check the plug" method of looking at my test
+oracle to see if the error was in my test and not the code itself. In this case my test was at fault. Keeping 
+an audit trail also helped me in making sure I checked each part of the test that could be causing my issues.
